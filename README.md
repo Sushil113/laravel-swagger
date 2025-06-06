@@ -27,8 +27,8 @@ This project is a practice implementation of **Laravel Sanctum** for API authent
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/laravel-sanctum-swagger-practice.git
-cd laravel-sanctum-swagger-practice
+git clone https://github.com/Sushil113/laravel-swagger.git
+cd laravel-swagger
 ```
 
 2. Install PHP dependencies:
